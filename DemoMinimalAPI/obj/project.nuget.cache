@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "364BKjhXdo/Lij3uAJO6IFgAOCY1cYYsBaT4/s/IEVBao0uL1AQ2G7BnklabnhT5de4rfxwmqymbLLcdRcQa+A==",
+  "dgSpecHash": "pLV6vMYvqXYxMe8daYln7BZCtQk4439WP/KjtmrhMu9GiTv1f83diK+gAu+rAd1qbAhFeAWOKz2EiubzYEh0eA==",
   "success": true,
-  "projectFilePath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\DemoMinimalAPI.csproj",
+  "projectFilePath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mauro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
