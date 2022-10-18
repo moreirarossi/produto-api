@@ -2066,9 +2066,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\DemoMinimalAPI.csproj",
-      "projectName": "DemoMinimalAPI",
-      "projectPath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\DemoMinimalAPI.csproj",
+      "projectUniqueName": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj",
+      "projectName": "ProdutoAPI",
+      "projectPath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj",
       "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
       "outputPath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\obj\\",
       "projectStyle": "PackageReference",

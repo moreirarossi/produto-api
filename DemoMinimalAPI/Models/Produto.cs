@@ -1,4 +1,4 @@
-﻿namespace DemoMinimalAPI.Models
+﻿namespace ProdutoAPI.Models
 {
     public class Produto
     {

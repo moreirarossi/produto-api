@@ -1,4 +1,4 @@
-using DemoMinimalAPI.Data;
+using ProdutoAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<MinimalContextDb>(options =>
+builder.Services.AddDbContext<ProdutoContextDb>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
@@ -20,7 +20,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.MapGet("/produto", async (
-            MinimalContextDb context) =>
+            ProdutoContextDb context) =>
         await context.Produtos.ToListAsync())
     .WithName("GetProduto")
     .WithTags("Produto");
