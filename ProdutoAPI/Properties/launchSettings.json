@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "DemoMinimalAPI": {
+    "Development": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
