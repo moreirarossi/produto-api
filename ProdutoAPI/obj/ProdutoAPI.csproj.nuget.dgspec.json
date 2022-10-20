@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj": {}
+    "D:\\.maurorossi\\produto\\ProdutoAPI\\ProdutoAPI.csproj": {}
   },
   "projects": {
-    "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj": {
+    "D:\\.maurorossi\\produto\\ProdutoAPI\\ProdutoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj",
+        "projectUniqueName": "D:\\.maurorossi\\produto\\ProdutoAPI\\ProdutoAPI.csproj",
         "projectName": "ProdutoAPI",
-        "projectPath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\ProdutoAPI.csproj",
+        "projectPath": "D:\\.maurorossi\\produto\\ProdutoAPI\\ProdutoAPI.csproj",
         "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
-        "outputPath": "D:\\.maurorossi\\DemoMinimalAPI\\DemoMinimalAPI\\obj\\",
+        "outputPath": "D:\\.maurorossi\\produto\\ProdutoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.10, )"
+            },
+            "MiniValidation": {
+              "target": "Package",
+              "version": "[0.4.2-pre.20220306.48, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[6.1.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
